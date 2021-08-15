@@ -1,0 +1,135 @@
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.xml
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\WebDriver.dll
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\bin\Debug\WebDriver.xml
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.xml
+C:\Users\Michel Alwan\Desktop\Software And Files\Desktop\Expert 23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.pdb
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\Scraper.xml
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\WebDriver.dll
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\bin\Debug\WebDriver.xml
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.xml
+C:\Users\Sony\Desktop\Software And Files\Expert23\Scrapers\Generic\Scraper\Scraper\obj\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\WebDriver.dll
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\bin\Debug\WebDriver.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper\Scraper\obj\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\WebDriver.dll
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\bin\Debug\WebDriver.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\Scrapers\Youtube\Generic\Scraper - Copy\Scraper\obj\Debug\Scraper.pdb
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.pdb
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\WebDriver.dll
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\bin\Debug\WebDriver.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.exe
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\WebDriver.dll
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\bin\Debug\WebDriver.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Scrapers\Generic 21\Generic\Scraper\obj\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.pdb
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.dll
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.exe
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.xml
+C:\Users\tintwork\Desktop\MA\may\June 2020\July\August\September\October\November2020\DECEMBER\21\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.pdb
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.pdb
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.xml
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.dll
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.xml
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.exe
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.xml
+C:\Users\SONY\Desktop\Software And Files\Files\Expert23\SCRAPERS\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.pdb
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.exe
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.pdb
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\Scraper.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.exe
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Task1\Google_Scraper\Email Scraper\Generic 21\Generic\Scraper\obj\Debug\Scraper.pdb
